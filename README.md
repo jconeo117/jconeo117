@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **frameworks and courses**
 
-- 😀 Collaborate in the development of [Trabajo en Digital]((https://www.trabajoendigital.com/))
+- 😀 Collaborate in the development of [Trabajo en Digital](https://www.trabajoendigital.com/)
 
 - 🤝 I’m looking for help with **future projects**
 
