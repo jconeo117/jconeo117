@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, redux and node.js**
 
-- 📫 How to reach me **jconeo117@gmail.com**
+- 📫 How to reach me **Jhon.coneo.h@gmail.com**
 
 - 📄 Know about my experiences [https://www.notion.so/Jhon-Coneo-CV-e4f05b9727af48a3bc1933b2b2e71d76](https://www.notion.so/Jhon-Coneo-CV-e4f05b9727af48a3bc1933b2b2e71d76)
 
