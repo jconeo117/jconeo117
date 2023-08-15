@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **frameworks and courses**
 
-- 😀 Collaborate in the development of [Snor inn app](https://snor-inn.vercel.app/)
+- 😀 Collaborate in the development of [Trabajo en Digital]((https://www.trabajoendigital.com/))
 
 - 🤝 I’m looking for help with **future projects**
 
 - 👨‍💻 All of my projects are available at (outdated) [https://jhon-coneo-dev.vercel.app/](https://jhon-coneo-dev.vercel.app/)
 
-- 💬 Ask me about **react, redux and node.js**
+- 💬 Ask me about **typescript, Next.js and node.js**
 
 - 📫 How to reach me **Jhon.coneo.h@gmail.com**
 
