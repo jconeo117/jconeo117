@@ -1,31 +1,78 @@
-<h1 align="center">Hi 👋, I'm Jhon Coneo</h1>
-<h3 align="center">A passionate backend web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+# Jhon Coneo
 
-- 🔭 I’m currently working on [my projects](https://github.com/jconeo117)
+**Desarrollador de software · C# / .NET · Python** — Montería, Colombia
+*Software developer · C# / .NET · Python* — Montería, Colombia
 
-- 🌱 I’m currently learning **frameworks and courses**
+Construyo software confiable y fácil de mantener: diseño modular, pruebas automatizadas y documentación
+clara. Me interesan los sistemas donde un motor determinista decide y la IA solo pone el lenguaje natural.
 
-- 😀 Collaborate in the development of [Trabajo en digital](https://www.trabajoendigital.com/)
+*I build reliable, maintainable software: modular design, automated tests and clear documentation. I'm
+interested in systems where a deterministic engine makes the decisions and AI only handles natural
+language.*
 
-- 🤝 I’m looking for help with **future projects**
+---
 
-- 💬 Ask me about **python, javascript and typescript**
+## Proyectos · Projects
 
-- 📫 How to reach me **Jhon.coneo.h@gmail.com**
+### AIDA — asistente determinista · deterministic assistant
 
-- ⚡ Fun fact **I think i'm funny guy**
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhon-coneo-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-coneo-hernandez-9a930b174/" height="30" width="40" /></a>
-</p>
+Un asistente para facilitar el trabajo de un operador: un motor algorítmico decide **si** actuar, **qué**
+hacer y **si está autorizado**, y el modelo de lenguaje solo entiende la entrada y redacta la respuesta. Si
+el modelo se cae, AIDA sigue trabajando.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+*An assistant that supports a human operator: an algorithmic engine decides **whether** to act, **what**
+to do and **whether it is authorized**, while the language model only reads the input and writes the
+reply. If the model goes down, AIDA keeps working.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jconeo117&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="jconeo117" /></p>
+| Versión · Version | Qué es · What it is |
+|---|---|
+| [**AIDA.NET**](https://github.com/jconeo117/AIDA.NET) | Reescritura en C# / .NET 10, en curso. Arquitectura por capas, decisiones documentadas en ADR y pruebas «doradas» que comparan cada resultado con la versión de Python byte a byte.<br>*Ongoing C# / .NET 10 rewrite. Layered architecture, decisions recorded as ADRs, and golden tests that check every result against the Python version byte for byte.* |
+| [**A.I.D.A (Python 0.1)**](https://github.com/jconeo117/A.I.D.A) | La primera versión, que hoy sirve de referencia. Más de 1 000 pruebas, transcripción de voz y OCR en local, y cotejo con el catálogo CIE-10.<br>*The first version, now the reference implementation. 1,000+ tests, local speech-to-text and OCR, and ICD-10 matching.* |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jconeo117&show_icons=true&theme=dark&hide_border=true&locale=en" alt="jconeo117" /></p>
+`C#` `.NET 10` `xUnit` `Stryker.NET` `GitHub Actions` `DocFX` · `Python` `pytest`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jconeo117&theme=dark" alt="jconeo117" /></p>
+### [Agora](https://github.com/jconeo117/Agora) — juego de rol sobre un simulador social · a TTRPG on top of a social simulator
+
+Un mundo con más de 100 personajes que tienen necesidades, rasgos, memoria, relaciones y metas propias, y
+que vive aunque nadie juegue. El jugador entra como un agente más, escribe en lenguaje natural lo que
+quiere hacer, y un narrador cuenta la partida sin cambiar el mundo. AIDA nació de aquí.
+
+*A world of 100+ characters with their own needs, traits, memories, relationships and goals, which keeps
+running whether or not anyone plays. The player joins as one more agent, types what they want to do in
+natural language, and a narrator tells the story without changing the world. AIDA grew out of this.*
+
+`Python` `pytest` `YAML` `Ollama` `OpenRouter`
+
+### Otros · Other
+
+- **Billing Assistant**: asistente de escritorio para armar y verificar los soportes de facturación en
+  salud, con OCR local, Google Drive, base de datos cifrada y actualización automática. El código es
+  privado; los instaladores están en
+  [billing-assistant-releases](https://github.com/jconeo117/billing-assistant-releases).
+  *Desktop assistant that assembles and checks healthcare billing documents. Private source;
+  installers public.* `C#` `.NET 8` `Blazor` `SQLite` `Tesseract`
+- [**Runefalls**](https://github.com/jconeo117/Runefalls): juego de cartas por turnos en Unity, mi
+  proyecto de grado (en desarrollo). *Turn-based card game in Unity, my graduation project (in
+  progress).* `Unity` `C#`
+- [**Marching Cubes**](https://github.com/jconeo117/Marching-Cubes-C-): generación procedural de terreno
+  3D en la GPU con compute shaders. *Procedural 3D terrain generated on the GPU with compute
+  shaders.* `Unity` `HLSL`
+
+---
+
+## Tecnologías · Tech stack
+
+| | |
+|---|---|
+| **Lenguajes · Languages** | C#, Python, JavaScript, TypeScript, SQL, HTML, CSS, HLSL |
+| **Backend** | .NET, ASP.NET Core, Node.js, Express, APIs REST |
+| **Frontend** | Blazor, React, Redux |
+| **Bases de datos · Databases** | PostgreSQL, SQL Server, SQLite |
+| **Calidad y DevOps · Quality & DevOps** | Git, GitHub Actions, xUnit, pytest, mutation testing |
+| **IA · AI** | LLM integration (OpenRouter, Ollama), Tesseract OCR, Claude Code |
+| **Videojuegos y 3D · Games & 3D** | Unity, Unreal Engine, Blender |
+| **Sistemas · Systems** | Windows, Linux |
+
+## Contacto · Contact
+
+📫 jhon.coneo.h@gmail.com
